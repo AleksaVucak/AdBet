@@ -1,5 +1,6 @@
 # AdBet
-AdBet Casino is a first-of-its-kind platform that eliminates financial risk for players. Instead of depositing real money, users earn credits exclusively by watching targeted ads. Once a certain threshold is reached, these credits can be withdrawn, making for a truly no-risk gambling experience. This model not only creates a more accessible platform for players but also provides advertisers with valuable, engaged viewership. Through AdBet Casino, everyone benefits - players enjoy exciting gameplay at zero cost, while advertisers reach a highly receptive audience.
+AdBet Casino is a first-of-its-kind platform that eliminates financial risk for players. Instead of depositing real money, users earn credits exclusively by watching targeted ads. Once a certain threshold is reached, these credits can be withdrawn. Through AdBet, everyone benefits - players enjoy exciting gameplay at zero cost, while advertisers reach a highly receptive audience.
+<img width="692" alt="Screen Shot 2025-01-16 at 10 10 57 AM" src="https://github.com/user-attachments/assets/1a250511-6fae-4e46-a7ac-4e8030fc5fc7" />
 > This project is still a work in progress.. my goal is to deploy while trying to balance applications, interview prep, and course work and hopefully have an industry disrupting startup.
 
 ## Features
